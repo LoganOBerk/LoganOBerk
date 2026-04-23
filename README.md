@@ -43,12 +43,13 @@ class LoganBerk:
 
 ## 📊 Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LoganOBerk&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=00FFD1&icon_color=FF2D78" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganOBerk&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=BF5AF2" />
+<img src="https://github-readme-stats.vercel.app/api?username=LoganOBerk&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=00FFD1&icon_color=FF2D78" />
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganOBerk&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=BF5AF2" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=LoganOBerk&theme=github-dark&hide_border=true&border_radius=16&ring=FF2D78&fire=FF9500&currStreakLabel=00FFD1" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=LoganOBerk&theme=github-dark&hide_border=true&border_radius=16&ring=FF2D78&fire=FF9500&currStreakLabel=00FFD1" />
 
 </div>
 
