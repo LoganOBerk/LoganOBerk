@@ -24,7 +24,7 @@
 class LoganBerk:
     university   = "University of Michigan-Dearborn"
     degree       = "B.S. Computer Information Systems — CS Specialization"
-    gpa          = 3.95
+    gpa          = 3.96
     graduation   = "Winter 2027"
     seeking      = "Backend / Systems Engineering Internship"
 
