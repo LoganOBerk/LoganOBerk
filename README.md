@@ -41,7 +41,7 @@ class LoganBerk:
 
 <div align="center">
 
-### 📊 Stats
+## 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=LoganOBerk&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=false&border_color=30363d&border_radius=16&title_color=00FFD1&icon_color=FF2D78&include_all_commits=true&card_width=495&cache_seconds=14400" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganOBerk&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=false&border_color=30363d&border_radius=16&title_color=BF5AF2&langs_count=8&card_width=495&cache_seconds=14400" width="49%" />
@@ -96,7 +96,6 @@ class LoganBerk:
 ![Concurrency](https://img.shields.io/badge/Concurrency-C2185B?style=flat)
 ![REST](https://img.shields.io/badge/RESTful%20API%20Design-0A66C2?style=flat)
 
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
