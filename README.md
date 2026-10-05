@@ -26,7 +26,7 @@ class LoganBerk:
     degree       = "B.S. Computer Information Systems — CS Specialization"
     gpa          = 3.96
     graduation   = "Winter 2027"
-    seeking      = "Backend / Systems Engineering Internship"
+    seeking      = "Backend / Systems Engineering Role"
 
     philosophy   = [
         "Design structure before writing line 1",
@@ -43,9 +43,9 @@ class LoganBerk:
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=LoganOBerk&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=00FFD1&icon_color=FF2D78" />
+<img src="https://github-readme-stats.vercel.app/api?username=LoganOBerk&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=00FFD1&icon_color=FF2D78&include_all_commits=true&cache_seconds=14400" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganOBerk&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=BF5AF2" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganOBerk&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=BF5AF2&langs_count=8&cache_seconds=14400" />
 
 <br/>
 
@@ -67,11 +67,23 @@ class LoganBerk:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
 ![C](https://img.shields.io/badge/C-6699CC?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Tools & Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=flat&logo=sqlite&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![GTest](https://img.shields.io/badge/Google%20Test-4285F4?style=flat&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6e40c9?style=flat&logo=github&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-BF5AF2?style=flat&logo=pandas&logoColor=white)
@@ -83,6 +95,7 @@ class LoganBerk:
 ![System Architecture](https://img.shields.io/badge/Architecture-00FFD1?style=flat)
 ![Database Design](https://img.shields.io/badge/Databases-FF9500?style=flat)
 ![Concurrency](https://img.shields.io/badge/Concurrency-C2185B?style=flat)
+![REST](https://img.shields.io/badge/RESTful%20API%20Design-0A66C2?style=flat)
 
 ---
 
@@ -90,8 +103,7 @@ class LoganBerk:
 
 ## 📈 Activity
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganOBerk&theme=github-dark&hide_border=true&radius=16&line=00FFD1&point=FF2D78" />
+<img src="assets/activity.svg" alt="Contributions over the last 30 days" />
 
 </div>
 
